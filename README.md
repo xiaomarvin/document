@@ -91,4 +91,4 @@ vue单文件提示： Vetur
 ```
 
 #### 在vscode中禁止显示node_modules目录
-![Image text](https://github.com/xiaomarvin9527/document/blob/main/img/1.png)
+![Image text](https://github.com/xiaomarvin/document/blob/main/img/1.png)
