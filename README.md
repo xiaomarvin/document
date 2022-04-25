@@ -24,6 +24,11 @@ vue单文件提示： Vetur
 获取请求：Postman、charles、Fiddler
 笔记： Evernote、印象笔记、Typora
 ```
+#### npm安装包版本
+```
+Node版本：Node.js v12.14.0
+Vue版本：@vue/cli 4.5.15
+```
 
 #### vscode设置代码块
 ```
